@@ -2,7 +2,7 @@
 ---
 
 I'm Alaa ElSayed, a **Full Stack Developer** in training, currently expanding my knowledge and skills with **IT Gate**.  
-I have a passion for **building engaging front-end interfaces** and **developing robust back-end solutions**.  
+I have a passion for **building engaging front-end interfaces** and **developing robust back-end solutions** Currently enrolled | **Frontend** module completed.  
 Curious and dedicated, I'm diving deeper into the world of web development, enjoying every step of the journey! 🚀
 
 ---
@@ -17,7 +17,7 @@ Curious and dedicated, I'm diving deeper into the world of web development, enjo
 - **React.js**
 - **Formik**
 - **Yup**
-- **Full Stack Development** fundamentals with **IT Gate**, Currently enrolled | **Frontend** module completed
+
 ---
 
 ## 🛠 Tech Stack (In Progress)
