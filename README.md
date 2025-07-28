@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alaa ElSayed
 ---
 
-I'm Alaa ElSayed, a **Full Stack Developer** in training, currently expanding my knowledge and skills with **IT Gate**.  
+I'm Alaa ElSayed, a **Full Stack Developer** in training, currently expanding my knowledge and skills .  
 I have a passion for **building engaging front-end interfaces** and **developing robust back-end solutions** Currently enrolled | **Frontend** module completed.  
 Curious and dedicated, I'm diving deeper into the world of web development, enjoying every step of the journey! 🚀
 
