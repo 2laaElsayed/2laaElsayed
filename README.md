@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Alaa ElSayed
----
+# Hi, I'm Alaa ElSayed 👋
 
-I'm Alaa ElSayed, a **Full Stack Developer** in training, currently expanding my knowledge and skills .  
-I have a passion for **building engaging front-end interfaces** and **developing robust back-end solutions** Currently enrolled | **Frontend** module completed.  
-Curious and dedicated, I'm diving deeper into the world of web development, enjoying every step of the journey! 🚀
+💻 **Full Stack Developer in training**  
+✅ Completed **Frontend** module  
+🔄 Currently learning **Backend** development and expanding my skills  
 
+✨ Passionate about creating user-friendly interfaces and building strong, functional systems.  
+🚀 Excited to keep growing in the world of web development!
 ---
 
 ##  Currently Learning
