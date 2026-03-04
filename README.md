@@ -1,24 +1,6 @@
 # Hi, I'm Alaa ElSayed 
 
- **Full Stack Developer (MERN Stack)**  
- Passionate about building modern, clean, and scalable web applications.
-
----
-
-##  Currently Learning
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Bootstrap**
-- **Tailwind CSS**
-- **jQuery**
-- **React.js**
-- **Formik**
-- **Yup**
-- **Node.js**
-- **Express.js**
-- **MongoDB**
+ **Software Engineer**  
 
 ---
 
